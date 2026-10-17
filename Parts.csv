@@ -1,0 +1,10 @@
+Item,Designator,Part Name,Description,Quantity,Notes
+1,U1,Seeed Studio XIAO (SAMD21 / RP2040 / ESP32-C3 etc.),Microcontroller board with USB-C,1,Variant not specified - any XIAO works with the code
+2,U2,MPU-6050 breakout (GY-521),6-axis accelerometer + gyroscope IMU module (I2C),1,Used for shake detection
+3,U3,SSD1306 OLED 0.96in 128x64,I2C OLED display module (GND/VCC/SCL/SDA),1,I2C address 0x3C
+4,U4,LM2596 adjustable buck converter module,DC-DC step-down converter,1,Set output to 5.0V before connecting the XIAO
+5,BT1,2S LiPo battery 7.4V 6000mAh,Zeee 80C 7.4V 44.4Wh LiPo with Deans (T) connector,1,Include matching battery charger
+6,SW1,Rocker switch (SPST ON/OFF),Main power switch,1,
+7,SW2,Push button module (red),Button module with VCC/OUT/GND pins,1,Used to cycle modes
+8,W1,Jumper wires,Assorted hookup wires,1,As needed
+9,J1,Deans (T) connector pigtail,Female T-connector with leads for battery connection,1,Optional - to connect the battery to the buck converter
