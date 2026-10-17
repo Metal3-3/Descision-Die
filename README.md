@@ -13,4 +13,6 @@ i designed the case with tinkercad using m3 holes for the top. it has a button h
 ## The size
 40x40x35
 
+# Try the demo
+https://wokwi.com/projects/478157623370130433
 
