@@ -15,4 +15,6 @@ i designed the case with tinkercad using m3 holes for the top. it has a button h
 
 # Try the demo
 https://wokwi.com/projects/478157623370130433
+<img width="621" height="548" alt="image" src="https://github.com/user-attachments/assets/59433e35-4110-4197-906b-5b7c3df53cdb" />
+
 
